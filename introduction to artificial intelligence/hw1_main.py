@@ -4,7 +4,7 @@
 # In[3]:
 
 
-from functions import func
+from hw1_functions import func
 
 
 # In[4]:
